@@ -2,7 +2,7 @@
 
 /**
  * API Server Module
- * @module src/app
+ * @module src/app this is a server which has middleware and routes
  */
 
 const cwd = process.cwd();
